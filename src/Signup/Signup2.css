@@ -1,0 +1,21 @@
+@media (min-width: 1280px) and (max-width: 1365px) {
+  .container {
+    width: 1280px;
+    margin: 0 auto;
+  }
+
+  .main {
+    width: 960px;
+    margin: 0 auto;
+  }
+
+  .d-flex {
+    display: flex;
+    align-items: center;
+  }
+
+  .i1 {
+    width: 250px;
+    height: 250px;
+  }
+}
